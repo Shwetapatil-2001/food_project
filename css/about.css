@@ -1,0 +1,196 @@
+
+h3{
+    font-family: "Montserrat-Regular";
+}
+ul{
+    font-family: "Damion-Regular";
+}
+.nav-link{
+    
+    margin-left: 50px;
+}
+.about{
+   
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.us{
+    color: darkolivegreen;
+}
+.products{
+    margin-left: 500px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.view{
+    margin-left: 500px;
+    margin-bottom: 40px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgba(244, 212, 72, 0.923);
+    border-color: rgba(244, 212, 72, 0.923);
+    color: black;
+}
+.section{
+    background-color:rgba(244, 212, 72, 0.923);
+    border-style: solid;
+    border-color:rgba(244, 212, 72, 0.923);
+}
+.section h4{
+    color: white;
+}
+.section1{
+    padding-top: 30px;
+    background-color:white;
+    color: black;
+}
+.header .icons div{
+    height: 4.5rem;
+    width: 4.5rem;
+    line-height: 4.5rem;
+    border-radius: .5rem;
+    background: #eee;
+    color:var(--black);
+    font-size: 2rem;
+    margin-right: .3rem;
+}
+
+.section3{
+    margin-bottom: 20px;
+}
+.f1{
+    border-style: solid;
+    border-color: rgb(225, 223, 223);
+    padding: 10px 10px 10px 10px;
+    background-color:white;
+}
+.add{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    padding: 3px 5px 3px 5px;
+    border-color: gainsboro;
+}
+
+.footer1{
+    background-color:black;
+    border-top: black;
+    border:solid 10px;
+    color:white;
+    border-color:black;
+    padding-top: 30px;
+}
+
+/*about us*/
+.reg{
+    padding: 5px 5px 5px 5px;
+    background-color: rgba(244, 212, 72, 0.923);
+    border-style: solid;
+    border-color:black;
+    color: white;
+}
+.body1{
+    background-color:white;
+}
+
+.abt1{
+    color: darkgoldenrod;
+    margin-left: 120px;
+}
+.view1{
+    margin-left: 480px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgba(244, 212, 72, 0.923);
+    border-color: rgba(244, 212, 72, 0.923);
+    color: black;
+    margin-bottom: 10px;
+}
+.abt2{
+    margin-left: 70px;
+}
+.abt3{
+    margin-left: 120px;
+}
+.abt4{
+    margin-left: 450px;
+    color: darkolivegreen;
+}
+.section2{
+    background-color:white;
+    color: black;
+}
+.top{
+    width: 100%;
+    height: 50vh;
+    background-image: url(https://t4.ftcdn.net/jpg/06/21/23/79/360_F_621237935_NGk8sFoFzRaChN0UgS5tBcrCAtjC9wP8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+ }
+ .a1{
+    color: white;
+    margin-top: 100px;
+    margin-left: 90px;
+}
+.nav-item1{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+    padding-top: 8px;
+   
+    transition: color 0.3s;
+}
+
+
+
+/* Products*/
+
+img{
+    margin-left: 0%;
+}
+.search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.section2 .b1{
+    margin-left: 150px;
+    color:black;
+    border-color: black;
+    background-color:white;
+    margin-top: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.top1{
+    margin-bottom: 20px;
+ }
+ .nav-item1{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+    padding-top: 8px;
+   
+    transition: color 0.3s;
+}
+.menu{
+    margin-left: 50px;
+}
+.section5{
+    padding-top: 30px;
+}
+
+/* Contact us*/
+
+
+
+
+/* menu.php */
+
+.button2{
+    margin-left: 100px;
+    padding-left: 50px;
+}
+

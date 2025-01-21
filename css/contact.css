@@ -1,0 +1,90 @@
+.div1{
+    background-color:white;
+    color:black;
+    margin-left: 80px;
+    margin-right: 100px;
+    width: 40%;
+    padding: 15px 30px 15px 10px;
+}
+.form1{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.lable1{
+    padding: 5px 500px 5px 10px;
+}
+.div1 .h2{
+    padding-left: 100px;
+}
+.section{
+    background-color:rgba(244, 212, 72, 0.923);
+    border-style: solid;
+    border-color:rgba(244, 212, 72, 0.923);
+}
+
+.name{
+    padding-left: 20px;
+}
+.email{
+    padding-left: 20px;
+}
+.msg{
+    margin-left: 5px;
+    padding-bottom: 5px;
+    padding: 5px 220px 5px 10px;
+}
+.phone{
+    padding-left: 20px;
+}
+.sub{
+    padding-left: 20px;
+}
+.send{
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left:5px;
+}
+.nav-item1{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+    padding-top: 8px;
+   
+    transition: color 0.3s;
+}
+.nav-link{
+    margin-left: 50px;
+}
+.footer1{
+    background-color:black;
+    border-top: black;
+    border:solid 10px;
+    color:white;
+    border-color:black;
+    padding-top: 30px;
+}
+.a{
+    color: white;
+}
+
+.whatsapp-button {
+    background-color:green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 180px;
+}
+
+.contact{
+    margin-left: 200px;
+}
